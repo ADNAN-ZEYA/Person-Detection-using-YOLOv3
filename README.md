@@ -70,4 +70,4 @@ This project is open-source and available under the **MIT License**.
 ---
 
 ## Author
-ADNAN ZEYA-(https://github.com/your-username)
+ADNAN ZEYA-(https://github.com/ADNAN-ZEYA)
